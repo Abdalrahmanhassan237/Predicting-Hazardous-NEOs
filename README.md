@@ -37,6 +37,9 @@ This project aims to predict potentially hazardous Near Earth Objects (NEOs) usi
   - Correlation heatmap to identify relationships between variables
   - Scatter plots to visualize relationships between pairs of features
 - Analyzed the distribution of hazardous vs. non-hazardous NEOs
+![output6](https://github.com/user-attachments/assets/bf56dbf9-5826-46d2-8920-992b0aa20e0b)
+![output5](https://github.com/user-attachments/assets/2bada6b1-9c56-47a5-9ce3-d12a4d8a3f82)
+![output4](https://github.com/user-attachments/assets/0ab58724-aa85-45be-a761-bec568a3a9a0)
 
 ### 4. Feature Engineering
 - Created new features based on domain knowledge and observed relationships:
@@ -60,10 +63,13 @@ This project aims to predict potentially hazardous Near Earth Objects (NEOs) usi
 ### 7. Feature Importance
 - Analyzed feature importance for the best model (if applicable)
 - Visualized the most influential features in predicting hazardous NEOs
+![output3](https://github.com/user-attachments/assets/f87eb334-5f5a-4b92-9cf1-7d793b4aec84)
 
 ### 8. Final Model Analysis
 - Generated a confusion matrix for the best model to understand its performance in detail
 - Plotted the Receiver Operating Characteristic (ROC) curve to visualize the model's ability to distinguish between classes
+![output](https://github.com/user-attachments/assets/072ae90b-7243-485b-ae0d-d4c85056e719)
+![output1](https://github.com/user-attachments/assets/f325fa01-d4a8-43dc-8d94-4572a5de6e83)
 
 ### 9. Data Export
 - Saved the cleaned and preprocessed dataset for future use or deployment
